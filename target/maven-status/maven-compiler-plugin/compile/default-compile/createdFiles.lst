@@ -1,0 +1,17 @@
+com\bpm\configuration\CORSFilter.class
+com\bpm\model\Order.class
+com\bpm\model\Quote.class
+com\bpm\model\Value.class
+com\bpm\model\Cart.class
+com\bpm\dao\impl\DashboardDaoImpl.class
+com\bpm\model\OrderBean.class
+com\bpm\service\DashboardServiceImpl.class
+com\bpm\dao\inf\DashboardDaoInf.class
+com\bpm\controller\DashboardController.class
+com\bpm\model\User.class
+com\bpm\service\DashboardServiceInf.class
+com\bpm\model\OrderItem.class
+com\bpm\configuration\BpmInitializer.class
+com\bpm\model\CartItem.class
+com\bpm\model\CatalogItem.class
+com\bpm\configuration\BpmConfiguration.class
